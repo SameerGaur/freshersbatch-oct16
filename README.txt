@@ -1,4 +1,4 @@
-Welcome to HTML assignments
+Welcome to HTML assign
 <<<<<<< HEAD
 making changes1
 =======
