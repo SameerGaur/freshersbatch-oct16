@@ -1,5 +1,5 @@
 Welcome to HTML assign changed modified changed modified
-<<<<<<< HEAD
+<<<<<<< HEAD changed
 making changes1 modified
 =======
 making changes in these file1
